@@ -1,0 +1,20 @@
+body{
+background-image: linear-gradient(to right, rgba(13, 207, 181, 0), rgb(54, 53, 2));
+width: 980px;
+margin: 0 auto;
+}
+h1{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    
+}
+h2{
+    color: mediumblue;
+    text-align: center;
+    font-size: 30px;
+}
+ol li{
+    align-items: center;
+    margin: 0 auto;
+}
